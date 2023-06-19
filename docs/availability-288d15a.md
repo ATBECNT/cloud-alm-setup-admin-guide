@@ -50,5 +50,5 @@ SAP Cloud ALM supports the browsers listed in the [Feature Scope Description for
 
 ## EU Access
 
-EU access isn’t available.
+EU access is available.
 
